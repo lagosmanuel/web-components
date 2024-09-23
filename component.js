@@ -1,7 +1,7 @@
 class Component extends HTMLElement {
     constructor() {
         super();
-        this.innerHTML = `<p>Masculin Féminin &#129326;</p>`;
+        this.innerHTML = `<p>Masculin Féminin (1966) &#129326;</p>`;
     }
 }
 
