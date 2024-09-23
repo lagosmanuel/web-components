@@ -1,4 +1,4 @@
-class Component extends HTMLComponent {
+class Component extends HTMLElement {
     constructor() {
         super()
         this.innerHTML = `<p>hola mundo</p>`
